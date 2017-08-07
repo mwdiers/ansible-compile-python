@@ -5,10 +5,9 @@ galaxy_info:
   license: BSD
   min_ansible_version: 2.0
   platforms:
-    - name: Ubuntu
+    - name: Debian
       versions:
-        - trusty
-        - xenial
+        - stretch
   galaxy_tags:
     - development
     - python
